@@ -1,0 +1,11 @@
+id,TR,T,R,RT,true_positive,false_positive,accuracy
+driving_start,41,15,12,62,73.0,84.0,79.0
+home_start,13,12,2,19,52.0,90.0,70.0
+home_end,9,16,3,9,36.0,75.0,49.0
+walking_start,32,16,29,48,67.0,62.0,64.0
+work_start,3,1,1,3,75.0,75.0,75.0
+sleeping_start,0,10,0,0,0.0,-1,
+sleeping_end,8,2,3,8,80.0,73.0,76.0
+work_end,3,1,1,3,75.0,75.0,75.0
+driving_end,37,19,13,38,66.0,75.0,70.0
+walking_end,31,17,29,33,65.0,53.0,58.0

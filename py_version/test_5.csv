@@ -1,0 +1,13 @@
+id,TR,T,R,RT,true_positive,false_positive,accuracy
+driving_start,56,63,12,66,47.0,85.0,62.0
+home_start,16,52,7,17,24.0,71.0,36.0
+home_end,17,51,4,18,25.0,82.0,39.0
+work_end,17,34,10,18,33.0,64.0,44.0
+driving_end,58,61,14,65,49.0,82.0,62.0
+active_zone_start,0,1,0,0,0.0,-1,
+sleeping_start,0,29,0,0,0.0,-1,
+sleeping_end,21,8,13,21,72.0,62.0,67.0
+walking_start,35,11,21,41,76.0,66.0,70.0
+work_start,10,41,6,10,20.0,63.0,30.0
+walking_end,34,12,21,42,74.0,67.0,70.0
+active_zone_end,0,1,0,0,0.0,-1,
